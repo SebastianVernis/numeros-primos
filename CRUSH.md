@@ -48,17 +48,27 @@ curl -X POST http://localhost:3000/api/interactive-map -H "Content-Type: applica
 # 🔥 PRE-GENERAR MAPAS ESTÁTICOS (Una sola vez)
 python3 pregenerate_static_maps.py
 
+# ⚡ GENERAR MAPAS COMPLETOS HASTA EL TOPE MÁXIMO (10,000×1,300=13M números)
+# Solo mapeo lineal con todas las variables de filtros
+python3 pregenerate_complete_linear_maps.py
+
 # 🌐 DESPLEGAR EN PUERTO PÚBLICO 3000 - VERSIÓN ESTÁTICA
 ./scripts/deployment/deploy_static_final.sh
 
 # Ver logs de la aplicación estática
 tail -f static_deployment.log
 
+# Ver logs de generación completa
+tail -f complete_generation.log
+
 # Detener aplicación estática
 pkill -f static_app.py
 
 # Verificar mapas disponibles
 curl http://localhost:3000/api/maps | head -20
+
+# Verificar mapas de alta resolución generados
+ls -la static_maps_hires/ | head -20
 ```
 
 ## Interfaces Estáticas Disponibles (PUERTO PÚBLICO 3000)
