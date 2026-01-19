@@ -1,0 +1,100 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Flask
+instance/
+.webassets-cache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Cache
+cache_primes/
+__pycache__/
+.cache/
+
+# Local files
+*.pem
+*.key
+*.crt
+.bash_history
+.bashrc
+.bash_logout
+.profile
+.sudo_as_admin_successful
+
+# Application specific
+app.pid
+complete_generation.log
+static_deployment.log
+memory_usage.log
+
+# Archives
+*.tar.gz
+*.zip
+archive/
+archive_backup_*
+
+# NPM
+node_modules/
+.npm/
+
+# Config backups
+*.bak
+*.bak.*
+
+# Temporary files
+*.tmp
+tmp/
+
+# Vercel
+.vercel
+
+# Local development
+.local/
+.config/
+.ssh/known_hosts*

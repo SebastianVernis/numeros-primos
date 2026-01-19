@@ -1,0 +1,4398 @@
+{
+  "generated": "2025-10-25T07:02:51.153068",
+  "total_maps": 206,
+  "maps": {
+    "6e60ff5d5119": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_6e60ff5d5119.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.36,
+      "generation_time": 14.41755,
+      "generated": "2025-10-25T00:54:42.304711"
+    },
+    "e13cd6b30dd3": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_e13cd6b30dd3.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.52,
+      "generation_time": 12.309748,
+      "generated": "2025-10-25T00:53:50.434546"
+    },
+    "fddf97637f37": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_fddf97637f37.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.54,
+      "generation_time": 10.731192,
+      "generated": "2025-10-25T00:52:45.537661"
+    },
+    "e763a0b7eb79": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_e763a0b7eb79.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.68,
+      "generation_time": 8.165148,
+      "generated": "2025-10-25T00:50:09.054203"
+    },
+    "a9ee5f657efa": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_a9ee5f657efa.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.57,
+      "generation_time": 11.533892,
+      "generated": "2025-10-25T00:52:02.261776"
+    },
+    "e4bc66b1e712": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_e4bc66b1e712.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.53,
+      "generation_time": 11.385288,
+      "generated": "2025-10-25T00:51:29.455303"
+    },
+    "ef9d99b2a545": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_ef9d99b2a545.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.52,
+      "generation_time": 14.010567,
+      "generated": "2025-10-25T00:55:26.141923"
+    },
+    "b8c0c21f3770": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 400000
+      },
+      "json_file": "hires_b8c0c21f3770.json",
+      "elementos_count": 16900,
+      "primos_count": 33860,
+      "densidad": 8.465,
+      "file_size_mb": 3.9,
+      "generation_time": 4.455075,
+      "generated": "2025-10-25T00:48:06.315216"
+    },
+    "aab71462c624": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_aab71462c624.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.7,
+      "generation_time": 7.459849,
+      "generated": "2025-10-25T00:50:48.027757"
+    },
+    "aa28ed3f95bc": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 900000
+      },
+      "json_file": "hires_aa28ed3f95bc.json",
+      "elementos_count": 11839,
+      "primos_count": 71274,
+      "densidad": 7.919333333333334,
+      "file_size_mb": 2.81,
+      "generation_time": 6.517584,
+      "generated": "2025-10-25T00:51:06.446172"
+    },
+    "c75f0465e567": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_c75f0465e567.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.68,
+      "generation_time": 7.837797,
+      "generated": "2025-10-25T00:50:17.120008"
+    },
+    "9f8316a58a99": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_9f8316a58a99.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.37,
+      "generation_time": 9.159214,
+      "generated": "2025-10-25T00:56:55.389545"
+    },
+    "c615cd01a04f": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1200,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_c615cd01a04f.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.33,
+      "generation_time": 12.883331,
+      "generated": "2025-10-25T00:53:11.026075"
+    },
+    "f59d3304cc04": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_f59d3304cc04.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.64,
+      "generation_time": 12.754901,
+      "generated": "2025-10-25T00:49:05.319033"
+    },
+    "be479c0522da": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 750000
+      },
+      "json_file": "hires_be479c0522da.json",
+      "elementos_count": 10011,
+      "primos_count": 60238,
+      "densidad": 8.031733333333333,
+      "file_size_mb": 2.39,
+      "generation_time": 4.985098,
+      "generated": "2025-10-25T00:49:49.014946"
+    },
+    "dc15539d447b": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 500000
+      },
+      "json_file": "hires_dc15539d447b.json",
+      "elementos_count": 10386,
+      "primos_count": 41538,
+      "densidad": 8.307599999999999,
+      "file_size_mb": 2.4,
+      "generation_time": 3.780418,
+      "generated": "2025-10-25T00:48:28.373174"
+    },
+    "5147ebf91020": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1300,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1300000
+      },
+      "json_file": "hires_5147ebf91020.json",
+      "elementos_count": 8290,
+      "primos_count": 100021,
+      "densidad": 7.6939230769230775,
+      "file_size_mb": 1.92,
+      "generation_time": 5.463028,
+      "generated": "2025-10-25T00:56:29.040989"
+    },
+    "f3452e16d08e": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_f3452e16d08e.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.53,
+      "generation_time": 10.139854,
+      "generated": "2025-10-25T00:51:39.857350"
+    },
+    "78359a7d2295": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 900000
+      },
+      "json_file": "hires_78359a7d2295.json",
+      "elementos_count": 11839,
+      "primos_count": 71274,
+      "densidad": 7.919333333333334,
+      "file_size_mb": 2.81,
+      "generation_time": 5.616761,
+      "generated": "2025-10-25T00:50:53.858012"
+    },
+    "f59f17d0f425": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_f59f17d0f425.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.54,
+      "generation_time": 9.906085,
+      "generated": "2025-10-25T00:52:34.542687"
+    },
+    "a248eaf1ade8": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1300,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1300000
+      },
+      "json_file": "hires_a248eaf1ade8.json",
+      "elementos_count": 8290,
+      "primos_count": 100021,
+      "densidad": 7.6939230769230775,
+      "file_size_mb": 1.92,
+      "generation_time": 5.000236,
+      "generated": "2025-10-25T00:56:18.161635"
+    },
+    "2969c0392fa2": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_2969c0392fa2.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.38,
+      "generation_time": 8.168092,
+      "generated": "2025-10-25T00:56:46.009278"
+    },
+    "4104194d8b91": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_4104194d8b91.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.51,
+      "generation_time": 13.679667,
+      "generated": "2025-10-25T00:53:37.700961"
+    },
+    "e98bca8341cf": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_e98bca8341cf.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.52,
+      "generation_time": 14.738008,
+      "generated": "2025-10-25T00:55:11.787741"
+    },
+    "15895a109b9e": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_15895a109b9e.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.68,
+      "generation_time": 7.347153,
+      "generated": "2025-10-25T00:50:24.683089"
+    },
+    "7b8ca25f283e": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1200,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_7b8ca25f283e.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.32,
+      "generation_time": 11.995392,
+      "generated": "2025-10-25T00:52:57.817061"
+    },
+    "3f2feb23b89b": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_3f2feb23b89b.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.27,
+      "generation_time": 8.259734,
+      "generated": "2025-10-25T00:57:14.691969"
+    },
+    "e1592bf2b2a1": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1250000
+      },
+      "json_file": "hires_e1592bf2b2a1.json",
+      "elementos_count": 24049,
+      "primos_count": 96469,
+      "densidad": 7.71752,
+      "file_size_mb": 5.53,
+      "generation_time": 15.638528,
+      "generated": "2025-10-25T00:55:42.097019"
+    },
+    "ac444f40371e": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_ac444f40371e.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.52,
+      "generation_time": 14.049035,
+      "generated": "2025-10-25T00:54:56.699675"
+    },
+    "2ad17ce67b7b": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_2ad17ce67b7b.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.38,
+      "generation_time": 8.269824,
+      "generated": "2025-10-25T00:57:40.333491"
+    },
+    "3b05e933ff40": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_3b05e933ff40.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.85,
+      "generation_time": 12.770794,
+      "generated": "2025-10-25T00:49:32.833289"
+    },
+    "0c864f68ba12": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 500000
+      },
+      "json_file": "hires_0c864f68ba12.json",
+      "elementos_count": 10386,
+      "primos_count": 41538,
+      "densidad": 8.307599999999999,
+      "file_size_mb": 2.4,
+      "generation_time": 3.9811,
+      "generated": "2025-10-25T00:48:20.522761"
+    },
+    "e578ecdbccc6": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 900000
+      },
+      "json_file": "hires_e578ecdbccc6.json",
+      "elementos_count": 11839,
+      "primos_count": 71274,
+      "densidad": 7.919333333333334,
+      "file_size_mb": 2.82,
+      "generation_time": 5.749419,
+      "generated": "2025-10-25T00:50:59.768297"
+    },
+    "9b4c23a1d91f": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_9b4c23a1d91f.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.64,
+      "generation_time": 11.434584,
+      "generated": "2025-10-25T00:48:39.951571"
+    },
+    "008a016d6e31": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1250000
+      },
+      "json_file": "hires_008a016d6e31.json",
+      "elementos_count": 24049,
+      "primos_count": 96469,
+      "densidad": 7.71752,
+      "file_size_mb": 5.54,
+      "generation_time": 15.016014,
+      "generated": "2025-10-25T00:55:57.488598"
+    },
+    "e48ea0a14206": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 500000
+      },
+      "json_file": "hires_e48ea0a14206.json",
+      "elementos_count": 10386,
+      "primos_count": 41538,
+      "densidad": 8.307599999999999,
+      "file_size_mb": 2.4,
+      "generation_time": 3.783412,
+      "generated": "2025-10-25T00:48:24.451417"
+    },
+    "b9ae7bfb6cf7": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_b9ae7bfb6cf7.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.38,
+      "generation_time": 8.930712,
+      "generated": "2025-10-25T00:57:49.465176"
+    },
+    "3237361310c5": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1250000
+      },
+      "json_file": "hires_3237361310c5.json",
+      "elementos_count": 24049,
+      "primos_count": 96469,
+      "densidad": 7.71752,
+      "file_size_mb": 5.53,
+      "generation_time": 15.025108,
+      "generated": "2025-10-25T00:56:12.841396"
+    },
+    "5bd75a5396b7": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_5bd75a5396b7.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.51,
+      "generation_time": 12.243626,
+      "generated": "2025-10-25T00:54:02.992005"
+    },
+    "35a4458240ec": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_35a4458240ec.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.37,
+      "generation_time": 8.490545,
+      "generated": "2025-10-25T00:56:37.645458"
+    },
+    "b1c10ab44350": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_b1c10ab44350.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.7,
+      "generation_time": 7.529117,
+      "generated": "2025-10-25T00:50:32.428807"
+    },
+    "39d5f396873d": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1200,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_39d5f396873d.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.33,
+      "generation_time": 12.373288,
+      "generated": "2025-10-25T00:53:23.713330"
+    },
+    "8def0f0c8d5c": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 400000
+      },
+      "json_file": "hires_8def0f0c8d5c.json",
+      "elementos_count": 16900,
+      "primos_count": 33860,
+      "densidad": 8.465,
+      "file_size_mb": 3.91,
+      "generation_time": 4.813143,
+      "generated": "2025-10-25T00:48:11.357996"
+    },
+    "01775a7a0b06": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_01775a7a0b06.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.83,
+      "generation_time": 14.058091,
+      "generated": "2025-10-25T00:49:19.702129"
+    },
+    "41e18c3ff084": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 800000
+      },
+      "json_file": "hires_41e18c3ff084.json",
+      "elementos_count": 15942,
+      "primos_count": 63951,
+      "densidad": 7.993875,
+      "file_size_mb": 3.71,
+      "generation_time": 7.681402,
+      "generated": "2025-10-25T00:50:40.352640"
+    },
+    "cc1a606a8c63": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_cc1a606a8c63.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.26,
+      "generation_time": 8.35525,
+      "generated": "2025-10-25T00:57:23.266717"
+    },
+    "2a8ac2f7ac50": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 750000
+      },
+      "json_file": "hires_2a8ac2f7ac50.json",
+      "elementos_count": 10011,
+      "primos_count": 60238,
+      "densidad": 8.031733333333333,
+      "file_size_mb": 2.4,
+      "generation_time": 6.04577,
+      "generated": "2025-10-25T00:49:55.212009"
+    },
+    "12fb6bd5b805": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 400000
+      },
+      "json_file": "hires_12fb6bd5b805.json",
+      "elementos_count": 16900,
+      "primos_count": 33860,
+      "densidad": 8.465,
+      "file_size_mb": 3.91,
+      "generation_time": 4.721375,
+      "generated": "2025-10-25T00:48:16.311861"
+    },
+    "febfcf9c01de": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 800,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1600000
+      },
+      "json_file": "hires_febfcf9c01de.json",
+      "elementos_count": 15109,
+      "primos_count": 121127,
+      "densidad": 7.570437500000001,
+      "file_size_mb": 3.5,
+      "generation_time": 9.086175,
+      "generated": "2025-10-25T00:57:58.760938"
+    },
+    "0d1fdc91402c": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_0d1fdc91402c.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.25,
+      "generation_time": 10.629944,
+      "generated": "2025-10-25T00:57:06.219976"
+    },
+    "9c0e3bea6682": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1300,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1300000
+      },
+      "json_file": "hires_9c0e3bea6682.json",
+      "elementos_count": 8290,
+      "primos_count": 100021,
+      "densidad": 7.6939230769230775,
+      "file_size_mb": 1.92,
+      "generation_time": 5.167004,
+      "generated": "2025-10-25T00:56:23.451863"
+    },
+    "eb63d19564b8": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_eb63d19564b8.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.55,
+      "generation_time": 10.300385,
+      "generated": "2025-10-25T00:51:50.428221"
+    },
+    "1c75f873a505": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_1c75f873a505.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.37,
+      "generation_time": 12.238557,
+      "generated": "2025-10-25T00:54:27.572281"
+    },
+    "b263a5dfadbb": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_b263a5dfadbb.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.53,
+      "generation_time": 11.171925,
+      "generated": "2025-10-25T00:51:17.791231"
+    },
+    "8395398ada86": {
+      "parametros": {
+        "num_circulos": 1000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "logaritmico",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_8395398ada86.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.65,
+      "generation_time": 11.870334,
+      "generated": "2025-10-25T00:48:52.187947"
+    },
+    "e6ffbe3f5ea2": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 750000
+      },
+      "json_file": "hires_e6ffbe3f5ea2.json",
+      "elementos_count": 10011,
+      "primos_count": 60238,
+      "densidad": 8.031733333333333,
+      "file_size_mb": 2.39,
+      "generation_time": 5.361053,
+      "generated": "2025-10-25T00:50:00.732687"
+    },
+    "0d5ece7102b4": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 600,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1200000
+      },
+      "json_file": "hires_0d5ece7102b4.json",
+      "elementos_count": 23187,
+      "primos_count": 92938,
+      "densidad": 7.744833333333332,
+      "file_size_mb": 5.36,
+      "generation_time": 11.710498,
+      "generated": "2025-10-25T00:54:15.013633"
+    },
+    "7c096ef81785": {
+      "parametros": {
+        "num_circulos": 2500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_7c096ef81785.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.53,
+      "generation_time": 10.349819,
+      "generated": "2025-10-25T00:52:24.374775"
+    },
+    "9bf7cacbf021": {
+      "parametros": {
+        "num_circulos": 2000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 1000000
+      },
+      "json_file": "hires_9bf7cacbf021.json",
+      "elementos_count": 19617,
+      "primos_count": 78498,
+      "densidad": 7.8498,
+      "file_size_mb": 4.56,
+      "generation_time": 11.21727,
+      "generated": "2025-10-25T00:52:13.759884"
+    },
+    "ba6b3357cf9c": {
+      "parametros": {
+        "num_circulos": 1500,
+        "divisiones_por_circulo": 400,
+        "tipo_mapeo": "arquimedes",
+        "total_numeros": 600000
+      },
+      "json_file": "hires_ba6b3357cf9c.json",
+      "elementos_count": 24524,
+      "primos_count": 49098,
+      "densidad": 8.183,
+      "file_size_mb": 5.83,
+      "generation_time": 10.494958,
+      "generated": "2025-10-25T00:49:43.680229"
+    },
+    "4336a199fb81": {
+      "parametros": {
+        "num_circulos": 3000,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "total_numeros": 1500000
+      },
+      "json_file": "hires_4336a199fb81.json",
+      "elementos_count": 14219,
+      "primos_count": 114155,
+      "densidad": 7.610333333333333,
+      "file_size_mb": 3.38,
+      "generation_time": 8.403715,
+      "generated": "2025-10-25T00:57:31.866458"
+    },
+    "2acbdffb2e3d": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_2acbdffb2e3d.html",
+      "json_file": "data_2acbdffb2e3d.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 130,
+      "json_size_kb": 153,
+      "generated": "2025-10-25T06:44:01.024646",
+      "is_mega_map": false
+    },
+    "3b772a8287e1": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3b772a8287e1.html",
+      "json_file": "data_3b772a8287e1.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 129,
+      "json_size_kb": 152,
+      "generated": "2025-10-25T06:44:01.046952",
+      "is_mega_map": false
+    },
+    "1fde929cacdc": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_1fde929cacdc.html",
+      "json_file": "data_1fde929cacdc.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 130,
+      "json_size_kb": 154,
+      "generated": "2025-10-25T06:44:01.067954",
+      "is_mega_map": false
+    },
+    "a3568a71aade": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_a3568a71aade.html",
+      "json_file": "data_a3568a71aade.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 133,
+      "json_size_kb": 157,
+      "generated": "2025-10-25T06:44:01.089294",
+      "is_mega_map": false
+    },
+    "e2a79f2b8616": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_e2a79f2b8616.html",
+      "json_file": "data_e2a79f2b8616.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 130,
+      "json_size_kb": 153,
+      "generated": "2025-10-25T06:44:01.110489",
+      "is_mega_map": false
+    },
+    "60b4d15ed03f": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_60b4d15ed03f.html",
+      "json_file": "data_60b4d15ed03f.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 130,
+      "json_size_kb": 153,
+      "generated": "2025-10-25T06:44:01.131537",
+      "is_mega_map": false
+    },
+    "1992d79968fd": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_1992d79968fd.html",
+      "json_file": "data_1992d79968fd.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 135,
+      "json_size_kb": 159,
+      "generated": "2025-10-25T06:44:01.152877",
+      "is_mega_map": false
+    },
+    "70778d5911ac": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_70778d5911ac.html",
+      "json_file": "data_70778d5911ac.json",
+      "elementos_count": 669,
+      "elementos_guardados": 669,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 135,
+      "json_size_kb": 159,
+      "generated": "2025-10-25T06:44:01.174111",
+      "is_mega_map": false
+    },
+    "613073797583": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_613073797583.html",
+      "json_file": "data_613073797583.json",
+      "elementos_count": 5000,
+      "elementos_guardados": 5000,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 130,
+      "json_size_kb": 1153,
+      "generated": "2025-10-25T06:44:01.245039",
+      "is_mega_map": false
+    },
+    "b7142052c420": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_b7142052c420.html",
+      "json_file": "data_b7142052c420.json",
+      "elementos_count": 5000,
+      "elementos_guardados": 5000,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 132,
+      "json_size_kb": 1158,
+      "generated": "2025-10-25T06:44:01.317767",
+      "is_mega_map": false
+    },
+    "8f85154088b3": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_8f85154088b3.html",
+      "json_file": "data_8f85154088b3.json",
+      "elementos_count": 5000,
+      "elementos_guardados": 5000,
+      "primos_count": 669,
+      "densidad": 13.38,
+      "file_size_kb": 132,
+      "json_size_kb": 1159,
+      "generated": "2025-10-25T06:44:01.391750",
+      "is_mega_map": false
+    },
+    "a07b18c8c1cc": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_a07b18c8c1cc.html",
+      "json_file": "data_a07b18c8c1cc.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 281,
+      "generated": "2025-10-25T06:44:01.431852",
+      "is_mega_map": false
+    },
+    "af391c1f656f": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_af391c1f656f.html",
+      "json_file": "data_af391c1f656f.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 129,
+      "json_size_kb": 280,
+      "generated": "2025-10-25T06:44:01.469650",
+      "is_mega_map": false
+    },
+    "3ef564215201": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3ef564215201.html",
+      "json_file": "data_3ef564215201.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 282,
+      "generated": "2025-10-25T06:44:01.507598",
+      "is_mega_map": false
+    },
+    "6571a39cf592": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_6571a39cf592.html",
+      "json_file": "data_6571a39cf592.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 133,
+      "json_size_kb": 287,
+      "generated": "2025-10-25T06:44:01.545800",
+      "is_mega_map": false
+    },
+    "57e398041ea7": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_57e398041ea7.html",
+      "json_file": "data_57e398041ea7.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 131,
+      "json_size_kb": 282,
+      "generated": "2025-10-25T06:44:01.585197",
+      "is_mega_map": false
+    },
+    "0ba06ed86e2e": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_0ba06ed86e2e.html",
+      "json_file": "data_0ba06ed86e2e.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 281,
+      "generated": "2025-10-25T06:44:01.625015",
+      "is_mega_map": false
+    },
+    "993d7a999b33": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_993d7a999b33.html",
+      "json_file": "data_993d7a999b33.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 135,
+      "json_size_kb": 289,
+      "generated": "2025-10-25T06:44:01.663533",
+      "is_mega_map": false
+    },
+    "b492c06e883b": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_b492c06e883b.html",
+      "json_file": "data_b492c06e883b.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 136,
+      "json_size_kb": 290,
+      "generated": "2025-10-25T06:44:01.702044",
+      "is_mega_map": false
+    },
+    "fe4653c60eb6": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_fe4653c60eb6.html",
+      "json_file": "data_fe4653c60eb6.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 131,
+      "json_size_kb": 2313,
+      "generated": "2025-10-25T06:44:01.841099",
+      "is_mega_map": false
+    },
+    "dea5793b92b0": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_dea5793b92b0.html",
+      "json_file": "data_dea5793b92b0.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 132,
+      "json_size_kb": 2320,
+      "generated": "2025-10-25T06:44:01.988123",
+      "is_mega_map": false
+    },
+    "719a87664cd2": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_719a87664cd2.html",
+      "json_file": "data_719a87664cd2.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 132,
+      "json_size_kb": 2321,
+      "generated": "2025-10-25T06:44:02.129913",
+      "is_mega_map": false
+    },
+    "9de6d1f8ddc8": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_9de6d1f8ddc8.html",
+      "json_file": "data_9de6d1f8ddc8.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 130,
+      "json_size_kb": 634,
+      "generated": "2025-10-25T06:44:02.240877",
+      "is_mega_map": false
+    },
+    "186967984b18": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_186967984b18.html",
+      "json_file": "data_186967984b18.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 130,
+      "json_size_kb": 633,
+      "generated": "2025-10-25T06:44:02.348683",
+      "is_mega_map": false
+    },
+    "b4a75290b3e7": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_b4a75290b3e7.html",
+      "json_file": "data_b4a75290b3e7.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 130,
+      "json_size_kb": 636,
+      "generated": "2025-10-25T06:44:02.454326",
+      "is_mega_map": false
+    },
+    "a473963c66b7": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_a473963c66b7.html",
+      "json_file": "data_a473963c66b7.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 133,
+      "json_size_kb": 645,
+      "generated": "2025-10-25T06:44:02.560523",
+      "is_mega_map": false
+    },
+    "c2ca97a6b333": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c2ca97a6b333.html",
+      "json_file": "data_c2ca97a6b333.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 131,
+      "json_size_kb": 636,
+      "generated": "2025-10-25T06:44:02.666363",
+      "is_mega_map": false
+    },
+    "bf38a8d22279": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_bf38a8d22279.html",
+      "json_file": "data_bf38a8d22279.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 130,
+      "json_size_kb": 634,
+      "generated": "2025-10-25T06:44:02.772828",
+      "is_mega_map": false
+    },
+    "36fbe25a5cb3": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_36fbe25a5cb3.html",
+      "json_file": "data_36fbe25a5cb3.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 135,
+      "json_size_kb": 649,
+      "generated": "2025-10-25T06:44:02.881890",
+      "is_mega_map": false
+    },
+    "19db0d204143": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_19db0d204143.html",
+      "json_file": "data_19db0d204143.json",
+      "elementos_count": 2762,
+      "elementos_guardados": 2762,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 136,
+      "json_size_kb": 650,
+      "generated": "2025-10-25T06:44:02.988813",
+      "is_mega_map": false
+    },
+    "1d6659ab4c56": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_1d6659ab4c56.html",
+      "json_file": "data_1d6659ab4c56.json",
+      "elementos_count": 25000,
+      "elementos_guardados": 25000,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 131,
+      "json_size_kb": 5807,
+      "generated": "2025-10-25T06:44:03.350631",
+      "is_mega_map": false
+    },
+    "8271a9fee9dd": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_8271a9fee9dd.html",
+      "json_file": "data_8271a9fee9dd.json",
+      "elementos_count": 25000,
+      "elementos_guardados": 25000,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 132,
+      "json_size_kb": 5821,
+      "generated": "2025-10-25T06:44:03.728581",
+      "is_mega_map": false
+    },
+    "5c894d7b961d": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_5c894d7b961d.html",
+      "json_file": "data_5c894d7b961d.json",
+      "elementos_count": 25000,
+      "elementos_guardados": 25000,
+      "primos_count": 2762,
+      "densidad": 11.048,
+      "file_size_kb": 133,
+      "json_size_kb": 5822,
+      "generated": "2025-10-25T06:44:04.106529",
+      "is_mega_map": false
+    },
+    "785b17d65fe7": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_785b17d65fe7.html",
+      "json_file": "data_785b17d65fe7.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1180,
+      "generated": "2025-10-25T06:44:04.396127",
+      "is_mega_map": false
+    },
+    "fb1f3bb2cc23": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_fb1f3bb2cc23.html",
+      "json_file": "data_fb1f3bb2cc23.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1179,
+      "generated": "2025-10-25T06:44:04.667068",
+      "is_mega_map": false
+    },
+    "0803d1cb2660": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_0803d1cb2660.html",
+      "json_file": "data_0803d1cb2660.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1182,
+      "generated": "2025-10-25T06:44:04.939688",
+      "is_mega_map": false
+    },
+    "c27176c2149d": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c27176c2149d.html",
+      "json_file": "data_c27176c2149d.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 1196,
+      "generated": "2025-10-25T06:44:05.211411",
+      "is_mega_map": false
+    },
+    "cae1927b8752": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_cae1927b8752.html",
+      "json_file": "data_cae1927b8752.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 1183,
+      "generated": "2025-10-25T06:44:05.481639",
+      "is_mega_map": false
+    },
+    "be79c14d79ab": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_be79c14d79ab.html",
+      "json_file": "data_be79c14d79ab.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 135,
+      "json_size_kb": 1204,
+      "generated": "2025-10-25T06:44:05.756290",
+      "is_mega_map": false
+    },
+    "7e50eaa9732f": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_7e50eaa9732f.html",
+      "json_file": "data_7e50eaa9732f.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 136,
+      "json_size_kb": 1205,
+      "generated": "2025-10-25T06:44:06.031550",
+      "is_mega_map": false
+    },
+    "7db2baa94d8b": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_7db2baa94d8b.html",
+      "json_file": "data_7db2baa94d8b.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 11631,
+      "generated": "2025-10-25T06:44:06.828848",
+      "is_mega_map": false
+    },
+    "f4aca287b6e6": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_f4aca287b6e6.html",
+      "json_file": "data_f4aca287b6e6.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 11653,
+      "generated": "2025-10-25T06:44:07.666062",
+      "is_mega_map": false
+    },
+    "00cac1898dc8": {
+      "parametros": {
+        "num_circulos": 50,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_00cac1898dc8.html",
+      "json_file": "data_00cac1898dc8.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 11655,
+      "generated": "2025-10-25T06:44:08.500036",
+      "is_mega_map": false
+    },
+    "eccbc4fe07d7": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_eccbc4fe07d7.html",
+      "json_file": "data_eccbc4fe07d7.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 282,
+      "generated": "2025-10-25T06:44:08.571760",
+      "is_mega_map": false
+    },
+    "ed7b705f560f": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_ed7b705f560f.html",
+      "json_file": "data_ed7b705f560f.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 281,
+      "generated": "2025-10-25T06:44:08.610045",
+      "is_mega_map": false
+    },
+    "70b9a45e82a0": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_70b9a45e82a0.html",
+      "json_file": "data_70b9a45e82a0.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 131,
+      "json_size_kb": 283,
+      "generated": "2025-10-25T06:44:08.648480",
+      "is_mega_map": false
+    },
+    "3f6347fd3486": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3f6347fd3486.html",
+      "json_file": "data_3f6347fd3486.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 134,
+      "json_size_kb": 288,
+      "generated": "2025-10-25T06:44:08.687012",
+      "is_mega_map": false
+    },
+    "e9239e1be436": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_e9239e1be436.html",
+      "json_file": "data_e9239e1be436.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 131,
+      "json_size_kb": 283,
+      "generated": "2025-10-25T06:44:08.725418",
+      "is_mega_map": false
+    },
+    "df8c53beb97d": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_df8c53beb97d.html",
+      "json_file": "data_df8c53beb97d.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 130,
+      "json_size_kb": 282,
+      "generated": "2025-10-25T06:44:08.763708",
+      "is_mega_map": false
+    },
+    "7577032428a6": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_7577032428a6.html",
+      "json_file": "data_7577032428a6.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 136,
+      "json_size_kb": 290,
+      "generated": "2025-10-25T06:44:08.804720",
+      "is_mega_map": false
+    },
+    "e5e4abf13fe9": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_e5e4abf13fe9.html",
+      "json_file": "data_e5e4abf13fe9.json",
+      "elementos_count": 1229,
+      "elementos_guardados": 1229,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 136,
+      "json_size_kb": 291,
+      "generated": "2025-10-25T06:44:08.843563",
+      "is_mega_map": false
+    },
+    "a60257fc9c0e": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_a60257fc9c0e.html",
+      "json_file": "data_a60257fc9c0e.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 131,
+      "json_size_kb": 2318,
+      "generated": "2025-10-25T06:44:08.981709",
+      "is_mega_map": false
+    },
+    "1106ada08657": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_1106ada08657.html",
+      "json_file": "data_1106ada08657.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 132,
+      "json_size_kb": 2325,
+      "generated": "2025-10-25T06:44:09.125958",
+      "is_mega_map": false
+    },
+    "ee90cb37b262": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_ee90cb37b262.html",
+      "json_file": "data_ee90cb37b262.json",
+      "elementos_count": 10000,
+      "elementos_guardados": 10000,
+      "primos_count": 1229,
+      "densidad": 12.29,
+      "file_size_kb": 133,
+      "json_size_kb": 2326,
+      "generated": "2025-10-25T06:44:09.268785",
+      "is_mega_map": false
+    },
+    "35a7670ae03e": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_35a7670ae03e.html",
+      "json_file": "data_35a7670ae03e.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 130,
+      "json_size_kb": 520,
+      "generated": "2025-10-25T06:44:09.354563",
+      "is_mega_map": false
+    },
+    "2d456d00ad15": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_2d456d00ad15.html",
+      "json_file": "data_2d456d00ad15.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 130,
+      "json_size_kb": 520,
+      "generated": "2025-10-25T06:44:09.436629",
+      "is_mega_map": false
+    },
+    "b4a7a6a3c27d": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_b4a7a6a3c27d.html",
+      "json_file": "data_b4a7a6a3c27d.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 522,
+      "generated": "2025-10-25T06:44:09.521749",
+      "is_mega_map": false
+    },
+    "aa90b940e449": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_aa90b940e449.html",
+      "json_file": "data_aa90b940e449.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 522,
+      "generated": "2025-10-25T06:44:09.603884",
+      "is_mega_map": false
+    },
+    "ade951601a6a": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_ade951601a6a.html",
+      "json_file": "data_ade951601a6a.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 130,
+      "json_size_kb": 521,
+      "generated": "2025-10-25T06:44:09.687134",
+      "is_mega_map": false
+    },
+    "23f313bbbdbb": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_23f313bbbdbb.html",
+      "json_file": "data_23f313bbbdbb.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 136,
+      "json_size_kb": 533,
+      "generated": "2025-10-25T06:44:09.768671",
+      "is_mega_map": false
+    },
+    "11d5f4a3028b": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_11d5f4a3028b.html",
+      "json_file": "data_11d5f4a3028b.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 136,
+      "json_size_kb": 534,
+      "generated": "2025-10-25T06:44:09.850552",
+      "is_mega_map": false
+    },
+    "e27dd118d891": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_e27dd118d891.html",
+      "json_file": "data_e27dd118d891.json",
+      "elementos_count": 20000,
+      "elementos_guardados": 20000,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 4657,
+      "generated": "2025-10-25T06:44:10.129792",
+      "is_mega_map": false
+    },
+    "a895c4a326e2": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_a895c4a326e2.html",
+      "json_file": "data_a895c4a326e2.json",
+      "elementos_count": 20000,
+      "elementos_guardados": 20000,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 133,
+      "json_size_kb": 4669,
+      "generated": "2025-10-25T06:44:10.427423",
+      "is_mega_map": false
+    },
+    "100610120d6f": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_100610120d6f.html",
+      "json_file": "data_100610120d6f.json",
+      "elementos_count": 20000,
+      "elementos_guardados": 20000,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 133,
+      "json_size_kb": 4670,
+      "generated": "2025-10-25T06:44:10.718160",
+      "is_mega_map": false
+    },
+    "c50757657a6f": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c50757657a6f.html",
+      "json_file": "data_c50757657a6f.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1185,
+      "generated": "2025-10-25T06:44:10.999987",
+      "is_mega_map": false
+    },
+    "5bb266027036": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_5bb266027036.html",
+      "json_file": "data_5bb266027036.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1184,
+      "generated": "2025-10-25T06:44:11.272016",
+      "is_mega_map": false
+    },
+    "f5e0c16ee2cc": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_f5e0c16ee2cc.html",
+      "json_file": "data_f5e0c16ee2cc.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 1187,
+      "generated": "2025-10-25T06:44:11.542529",
+      "is_mega_map": false
+    },
+    "08940fbe7fec": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_08940fbe7fec.html",
+      "json_file": "data_08940fbe7fec.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 134,
+      "json_size_kb": 1201,
+      "generated": "2025-10-25T06:44:11.815504",
+      "is_mega_map": false
+    },
+    "c59ab3117501": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c59ab3117501.html",
+      "json_file": "data_c59ab3117501.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 1188,
+      "generated": "2025-10-25T06:44:12.089880",
+      "is_mega_map": false
+    },
+    "3d8865b78800": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3d8865b78800.html",
+      "json_file": "data_3d8865b78800.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1186,
+      "generated": "2025-10-25T06:44:12.361590",
+      "is_mega_map": false
+    },
+    "2eede44f7af3": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_2eede44f7af3.html",
+      "json_file": "data_2eede44f7af3.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 136,
+      "json_size_kb": 1209,
+      "generated": "2025-10-25T06:44:12.635098",
+      "is_mega_map": false
+    },
+    "2ad7852702ce": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_2ad7852702ce.html",
+      "json_file": "data_2ad7852702ce.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 136,
+      "json_size_kb": 1211,
+      "generated": "2025-10-25T06:44:12.907443",
+      "is_mega_map": false
+    },
+    "de226899f108": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_de226899f108.html",
+      "json_file": "data_de226899f108.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 11679,
+      "generated": "2025-10-25T06:44:13.700938",
+      "is_mega_map": false
+    },
+    "5ce6e475b84a": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_5ce6e475b84a.html",
+      "json_file": "data_5ce6e475b84a.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 11701,
+      "generated": "2025-10-25T06:44:14.540892",
+      "is_mega_map": false
+    },
+    "7db12eb7cb7f": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_7db12eb7cb7f.html",
+      "json_file": "data_7db12eb7cb7f.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 11702,
+      "generated": "2025-10-25T06:44:15.382874",
+      "is_mega_map": false
+    },
+    "1bffa94eb164": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_1bffa94eb164.html",
+      "json_file": "data_1bffa94eb164.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 130,
+      "json_size_kb": 2216,
+      "generated": "2025-10-25T06:44:16.179303",
+      "is_mega_map": false
+    },
+    "3030786bdb9e": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3030786bdb9e.html",
+      "json_file": "data_3030786bdb9e.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2219,
+      "generated": "2025-10-25T06:44:16.942593",
+      "is_mega_map": false
+    },
+    "9c106f806db4": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_9c106f806db4.html",
+      "json_file": "data_9c106f806db4.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 134,
+      "json_size_kb": 2241,
+      "generated": "2025-10-25T06:44:17.708694",
+      "is_mega_map": false
+    },
+    "1ae6a14cb935": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_1ae6a14cb935.html",
+      "json_file": "data_1ae6a14cb935.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2221,
+      "generated": "2025-10-25T06:44:18.473381",
+      "is_mega_map": false
+    },
+    "2c2f4cf72b1f": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_2c2f4cf72b1f.html",
+      "json_file": "data_2c2f4cf72b1f.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 130,
+      "json_size_kb": 2217,
+      "generated": "2025-10-25T06:44:19.238017",
+      "is_mega_map": false
+    },
+    "fd491705a1f9": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_fd491705a1f9.html",
+      "json_file": "data_fd491705a1f9.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 136,
+      "json_size_kb": 2254,
+      "generated": "2025-10-25T06:44:20.003687",
+      "is_mega_map": false
+    },
+    "e34c19ec11cc": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_e34c19ec11cc.html",
+      "json_file": "data_e34c19ec11cc.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 136,
+      "json_size_kb": 2256,
+      "generated": "2025-10-25T06:44:20.771661",
+      "is_mega_map": false
+    },
+    "1d93c2a388a9": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_1d93c2a388a9.html",
+      "json_file": "data_1d93c2a388a9.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 132,
+      "json_size_kb": 23380,
+      "generated": "2025-10-25T06:44:22.653293",
+      "is_mega_map": false
+    },
+    "610fca7b660c": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_610fca7b660c.html",
+      "json_file": "data_610fca7b660c.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 133,
+      "json_size_kb": 23415,
+      "generated": "2025-10-25T06:44:24.603548",
+      "is_mega_map": false
+    },
+    "2e8a02c664e4": {
+      "parametros": {
+        "num_circulos": 100,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_2e8a02c664e4.html",
+      "json_file": "data_2e8a02c664e4.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 133,
+      "json_size_kb": 23418,
+      "generated": "2025-10-25T06:44:26.545647",
+      "is_mega_map": false
+    },
+    "64c8767b31e5": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_64c8767b31e5.html",
+      "json_file": "data_64c8767b31e5.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 523,
+      "generated": "2025-10-25T06:44:26.692197",
+      "is_mega_map": false
+    },
+    "da831df1440c": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_da831df1440c.html",
+      "json_file": "data_da831df1440c.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 130,
+      "json_size_kb": 522,
+      "generated": "2025-10-25T06:44:26.773007",
+      "is_mega_map": false
+    },
+    "d31a75fb7c8a": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_d31a75fb7c8a.html",
+      "json_file": "data_d31a75fb7c8a.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 524,
+      "generated": "2025-10-25T06:44:26.856430",
+      "is_mega_map": false
+    },
+    "ac948722a69c": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_ac948722a69c.html",
+      "json_file": "data_ac948722a69c.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 134,
+      "json_size_kb": 532,
+      "generated": "2025-10-25T06:44:26.938007",
+      "is_mega_map": false
+    },
+    "c0397ac8d76f": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c0397ac8d76f.html",
+      "json_file": "data_c0397ac8d76f.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 132,
+      "json_size_kb": 525,
+      "generated": "2025-10-25T06:44:27.019068",
+      "is_mega_map": false
+    },
+    "0f2b5a7ed6e3": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_0f2b5a7ed6e3.html",
+      "json_file": "data_0f2b5a7ed6e3.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 523,
+      "generated": "2025-10-25T06:44:27.100232",
+      "is_mega_map": false
+    },
+    "5ddb9165be3b": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_5ddb9165be3b.html",
+      "json_file": "data_5ddb9165be3b.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 136,
+      "json_size_kb": 536,
+      "generated": "2025-10-25T06:44:27.181690",
+      "is_mega_map": false
+    },
+    "14fdf7ce697f": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_14fdf7ce697f.html",
+      "json_file": "data_14fdf7ce697f.json",
+      "elementos_count": 2262,
+      "elementos_guardados": 2262,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 136,
+      "json_size_kb": 537,
+      "generated": "2025-10-25T06:44:27.263356",
+      "is_mega_map": false
+    },
+    "3fbd1324e595": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_3fbd1324e595.html",
+      "json_file": "data_3fbd1324e595.json",
+      "elementos_count": 20000,
+      "elementos_guardados": 20000,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 131,
+      "json_size_kb": 4676,
+      "generated": "2025-10-25T06:44:27.544814",
+      "is_mega_map": false
+    },
+    "0394ef786162": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_0394ef786162.html",
+      "json_file": "data_0394ef786162.json",
+      "elementos_count": 20000,
+      "elementos_guardados": 20000,
+      "primos_count": 2262,
+      "densidad": 11.31,
+      "file_size_kb": 133,
+      "json_size_kb": 4688,
+      "generated": "2025-10-25T06:44:27.840379",
+      "is_mega_map": false
+    },
+    "ae398a31bdfb": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_ae398a31bdfb.html",
+      "json_file": "data_ae398a31bdfb.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 131,
+      "json_size_kb": 974,
+      "generated": "2025-10-25T06:44:28.051813",
+      "is_mega_map": false
+    },
+    "a90716320913": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_a90716320913.html",
+      "json_file": "data_a90716320913.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 130,
+      "json_size_kb": 973,
+      "generated": "2025-10-25T06:44:28.253913",
+      "is_mega_map": false
+    },
+    "bdcef88d4e8f": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_bdcef88d4e8f.html",
+      "json_file": "data_bdcef88d4e8f.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 131,
+      "json_size_kb": 976,
+      "generated": "2025-10-25T06:44:28.453633",
+      "is_mega_map": false
+    },
+    "15f75dba41c0": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_15f75dba41c0.html",
+      "json_file": "data_15f75dba41c0.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 134,
+      "json_size_kb": 988,
+      "generated": "2025-10-25T06:44:28.653297",
+      "is_mega_map": false
+    },
+    "9c83c62f0211": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_9c83c62f0211.html",
+      "json_file": "data_9c83c62f0211.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 132,
+      "json_size_kb": 977,
+      "generated": "2025-10-25T06:44:28.852222",
+      "is_mega_map": false
+    },
+    "52786541986a": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_52786541986a.html",
+      "json_file": "data_52786541986a.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 131,
+      "json_size_kb": 975,
+      "generated": "2025-10-25T06:44:29.051052",
+      "is_mega_map": false
+    },
+    "4b37f77250b2": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_4b37f77250b2.html",
+      "json_file": "data_4b37f77250b2.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 136,
+      "json_size_kb": 995,
+      "generated": "2025-10-25T06:44:29.251114",
+      "is_mega_map": false
+    },
+    "b5b8f9815828": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_b5b8f9815828.html",
+      "json_file": "data_b5b8f9815828.json",
+      "elementos_count": 4203,
+      "elementos_guardados": 4203,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 137,
+      "json_size_kb": 996,
+      "generated": "2025-10-25T06:44:29.450363",
+      "is_mega_map": false
+    },
+    "889039482903": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_889039482903.html",
+      "json_file": "data_889039482903.json",
+      "elementos_count": 40000,
+      "elementos_guardados": 40000,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 132,
+      "json_size_kb": 9386,
+      "generated": "2025-10-25T06:44:30.067302",
+      "is_mega_map": false
+    },
+    "b816bcbd06f9": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_b816bcbd06f9.html",
+      "json_file": "data_b816bcbd06f9.json",
+      "elementos_count": 40000,
+      "elementos_guardados": 40000,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 133,
+      "json_size_kb": 9405,
+      "generated": "2025-10-25T06:44:30.728105",
+      "is_mega_map": false
+    },
+    "c89846090680": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_c89846090680.html",
+      "json_file": "data_c89846090680.json",
+      "elementos_count": 40000,
+      "elementos_guardados": 40000,
+      "primos_count": 4203,
+      "densidad": 10.5075,
+      "file_size_kb": 133,
+      "json_size_kb": 9407,
+      "generated": "2025-10-25T06:44:31.375177",
+      "is_mega_map": false
+    },
+    "31865bd27bd3": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_31865bd27bd3.html",
+      "json_file": "data_31865bd27bd3.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2230,
+      "generated": "2025-10-25T06:44:32.164548",
+      "is_mega_map": false
+    },
+    "3f4cb03856a8": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_3f4cb03856a8.html",
+      "json_file": "data_3f4cb03856a8.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2228,
+      "generated": "2025-10-25T06:44:32.934432",
+      "is_mega_map": false
+    },
+    "97c9049ede95": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_97c9049ede95.html",
+      "json_file": "data_97c9049ede95.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2232,
+      "generated": "2025-10-25T06:44:33.702991",
+      "is_mega_map": false
+    },
+    "7b551bbaed4c": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_7b551bbaed4c.html",
+      "json_file": "data_7b551bbaed4c.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 134,
+      "json_size_kb": 2254,
+      "generated": "2025-10-25T06:44:34.472895",
+      "is_mega_map": false
+    },
+    "b5791488ea5c": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_b5791488ea5c.html",
+      "json_file": "data_b5791488ea5c.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 132,
+      "json_size_kb": 2235,
+      "generated": "2025-10-25T06:44:35.238808",
+      "is_mega_map": false
+    },
+    "008a735b020a": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_008a735b020a.html",
+      "json_file": "data_008a735b020a.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2231,
+      "generated": "2025-10-25T06:44:36.006387",
+      "is_mega_map": false
+    },
+    "6b93456ccaa5": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_6b93456ccaa5.html",
+      "json_file": "data_6b93456ccaa5.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 136,
+      "json_size_kb": 2267,
+      "generated": "2025-10-25T06:44:36.773633",
+      "is_mega_map": false
+    },
+    "fea7fb26d167": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_fea7fb26d167.html",
+      "json_file": "data_fea7fb26d167.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 137,
+      "json_size_kb": 2269,
+      "generated": "2025-10-25T06:44:37.542444",
+      "is_mega_map": false
+    },
+    "70f30fa3a921": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_70f30fa3a921.html",
+      "json_file": "data_70f30fa3a921.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 133,
+      "json_size_kb": 23555,
+      "generated": "2025-10-25T06:44:39.407214",
+      "is_mega_map": false
+    },
+    "494b4de210ea": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_494b4de210ea.html",
+      "json_file": "data_494b4de210ea.json",
+      "elementos_count": 200000,
+      "elementos_guardados": 10000,
+      "primos_count": 17984,
+      "densidad": 8.992,
+      "file_size_kb": 132,
+      "json_size_kb": 2329,
+      "generated": "2025-10-25T07:02:12.356367",
+      "is_mega_map": false
+    },
+    "176d5cd67ee5": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_176d5cd67ee5.html",
+      "json_file": "data_176d5cd67ee5.json",
+      "elementos_count": 200000,
+      "elementos_guardados": 10000,
+      "primos_count": 17984,
+      "densidad": 8.992,
+      "file_size_kb": 134,
+      "json_size_kb": 2339,
+      "generated": "2025-10-25T07:02:15.006165",
+      "is_mega_map": false
+    },
+    "0bb4440f6378": {
+      "parametros": {
+        "num_circulos": 200,
+        "divisiones_por_circulo": 1000,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_0bb4440f6378.html",
+      "json_file": "data_0bb4440f6378.json",
+      "elementos_count": 200000,
+      "elementos_guardados": 10000,
+      "primos_count": 17984,
+      "densidad": 8.992,
+      "file_size_kb": 134,
+      "json_size_kb": 2339,
+      "generated": "2025-10-25T07:02:17.672671",
+      "is_mega_map": false
+    },
+    "9f2c18382081": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_9f2c18382081.html",
+      "json_file": "data_9f2c18382081.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1185,
+      "generated": "2025-10-25T07:02:17.979502",
+      "is_mega_map": false
+    },
+    "ca12e9a38f00": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_ca12e9a38f00.html",
+      "json_file": "data_ca12e9a38f00.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1184,
+      "generated": "2025-10-25T07:02:18.248244",
+      "is_mega_map": false
+    },
+    "8a18c2d8ae38": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_8a18c2d8ae38.html",
+      "json_file": "data_8a18c2d8ae38.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 1187,
+      "generated": "2025-10-25T07:02:18.517519",
+      "is_mega_map": false
+    },
+    "365d6c945f87": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_365d6c945f87.html",
+      "json_file": "data_365d6c945f87.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 134,
+      "json_size_kb": 1201,
+      "generated": "2025-10-25T07:02:18.788862",
+      "is_mega_map": false
+    },
+    "a463221d9583": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_a463221d9583.html",
+      "json_file": "data_a463221d9583.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 1188,
+      "generated": "2025-10-25T07:02:19.058903",
+      "is_mega_map": false
+    },
+    "c3dfed7f7712": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c3dfed7f7712.html",
+      "json_file": "data_c3dfed7f7712.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 130,
+      "json_size_kb": 1186,
+      "generated": "2025-10-25T07:02:19.328508",
+      "is_mega_map": false
+    },
+    "8845890cc6ad": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_8845890cc6ad.html",
+      "json_file": "data_8845890cc6ad.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 136,
+      "json_size_kb": 1209,
+      "generated": "2025-10-25T07:02:19.597306",
+      "is_mega_map": false
+    },
+    "97e186f92ad1": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_97e186f92ad1.html",
+      "json_file": "data_97e186f92ad1.json",
+      "elementos_count": 5133,
+      "elementos_guardados": 5133,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 136,
+      "json_size_kb": 1211,
+      "generated": "2025-10-25T07:02:19.871512",
+      "is_mega_map": false
+    },
+    "485dbeff0ea3": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_485dbeff0ea3.html",
+      "json_file": "data_485dbeff0ea3.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 131,
+      "json_size_kb": 11674,
+      "generated": "2025-10-25T07:02:20.665408",
+      "is_mega_map": false
+    },
+    "128517f7feaa": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_128517f7feaa.html",
+      "json_file": "data_128517f7feaa.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 132,
+      "json_size_kb": 11696,
+      "generated": "2025-10-25T07:02:21.505956",
+      "is_mega_map": false
+    },
+    "12c0d4827b82": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 100,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_12c0d4827b82.html",
+      "json_file": "data_12c0d4827b82.json",
+      "elementos_count": 50000,
+      "elementos_guardados": 50000,
+      "primos_count": 5133,
+      "densidad": 10.266,
+      "file_size_kb": 133,
+      "json_size_kb": 11697,
+      "generated": "2025-10-25T07:02:22.341716",
+      "is_mega_map": false
+    },
+    "c74730bc0559": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_c74730bc0559.html",
+      "json_file": "data_c74730bc0559.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 130,
+      "json_size_kb": 2219,
+      "generated": "2025-10-25T07:02:23.124623",
+      "is_mega_map": false
+    },
+    "39856d13af44": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_39856d13af44.html",
+      "json_file": "data_39856d13af44.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 130,
+      "json_size_kb": 2216,
+      "generated": "2025-10-25T07:02:23.885414",
+      "is_mega_map": false
+    },
+    "9a01b4ffe485": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_9a01b4ffe485.html",
+      "json_file": "data_9a01b4ffe485.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2221,
+      "generated": "2025-10-25T07:02:24.644331",
+      "is_mega_map": false
+    },
+    "6a5df0881a66": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_6a5df0881a66.html",
+      "json_file": "data_6a5df0881a66.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 134,
+      "json_size_kb": 2243,
+      "generated": "2025-10-25T07:02:25.404662",
+      "is_mega_map": false
+    },
+    "6b11c3128f01": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_6b11c3128f01.html",
+      "json_file": "data_6b11c3128f01.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 2224,
+      "generated": "2025-10-25T07:02:26.166335",
+      "is_mega_map": false
+    },
+    "88ffe1b71f9d": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_88ffe1b71f9d.html",
+      "json_file": "data_88ffe1b71f9d.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 130,
+      "json_size_kb": 2219,
+      "generated": "2025-10-25T07:02:26.928351",
+      "is_mega_map": false
+    },
+    "20dec3679868": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_20dec3679868.html",
+      "json_file": "data_20dec3679868.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 136,
+      "json_size_kb": 2256,
+      "generated": "2025-10-25T07:02:27.691222",
+      "is_mega_map": false
+    },
+    "716aa1defe70": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_716aa1defe70.html",
+      "json_file": "data_716aa1defe70.json",
+      "elementos_count": 9592,
+      "elementos_guardados": 9592,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 136,
+      "json_size_kb": 2258,
+      "generated": "2025-10-25T07:02:28.454600",
+      "is_mega_map": false
+    },
+    "06719dd4b160": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_06719dd4b160.html",
+      "json_file": "data_06719dd4b160.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 131,
+      "json_size_kb": 23417,
+      "generated": "2025-10-25T07:02:30.314495",
+      "is_mega_map": false
+    },
+    "70b0c5cd5ea4": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_70b0c5cd5ea4.html",
+      "json_file": "data_70b0c5cd5ea4.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 133,
+      "json_size_kb": 23452,
+      "generated": "2025-10-25T07:02:32.255198",
+      "is_mega_map": false
+    },
+    "ae2aa9ca6229": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 200,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "sophie_germain": true,
+          "palindromicos": true,
+          "mersenne": true,
+          "fermat": true,
+          "compuestos": true
+        }
+      },
+      "html_file": "map_ae2aa9ca6229.html",
+      "json_file": "data_ae2aa9ca6229.json",
+      "elementos_count": 100000,
+      "elementos_guardados": 100000,
+      "primos_count": 9592,
+      "densidad": 9.592,
+      "file_size_kb": 133,
+      "json_size_kb": 23454,
+      "generated": "2025-10-25T07:02:34.200543",
+      "is_mega_map": false
+    },
+    "610dabf99936": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_610dabf99936.html",
+      "json_file": "data_610dabf99936.json",
+      "elementos_count": 22044,
+      "elementos_guardados": 22044,
+      "primos_count": 22044,
+      "densidad": 8.8176,
+      "file_size_kb": 130,
+      "json_size_kb": 5124,
+      "generated": "2025-10-25T07:02:37.647999",
+      "is_mega_map": false
+    },
+    "722c08f2627f": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_722c08f2627f.html",
+      "json_file": "data_722c08f2627f.json",
+      "elementos_count": 22044,
+      "elementos_guardados": 22044,
+      "primos_count": 22044,
+      "densidad": 8.8176,
+      "file_size_kb": 130,
+      "json_size_kb": 5119,
+      "generated": "2025-10-25T07:02:41.014945",
+      "is_mega_map": false
+    },
+    "360452135b9e": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_360452135b9e.html",
+      "json_file": "data_360452135b9e.json",
+      "elementos_count": 22044,
+      "elementos_guardados": 22044,
+      "primos_count": 22044,
+      "densidad": 8.8176,
+      "file_size_kb": 131,
+      "json_size_kb": 5128,
+      "generated": "2025-10-25T07:02:44.392754",
+      "is_mega_map": false
+    },
+    "e8b4bf0aa0af": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "primos": true,
+          "sexy": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_e8b4bf0aa0af.html",
+      "json_file": "data_e8b4bf0aa0af.json",
+      "elementos_count": 22044,
+      "elementos_guardados": 22044,
+      "primos_count": 22044,
+      "densidad": 8.8176,
+      "file_size_kb": 134,
+      "json_size_kb": 5170,
+      "generated": "2025-10-25T07:02:47.769171",
+      "is_mega_map": false
+    },
+    "68af0f1c3318": {
+      "parametros": {
+        "num_circulos": 500,
+        "divisiones_por_circulo": 500,
+        "tipo_mapeo": "lineal",
+        "filtros": {
+          "regulares": true,
+          "gemelos": true,
+          "sophie_germain": true,
+          "compuestos": false
+        }
+      },
+      "html_file": "map_68af0f1c3318.html",
+      "json_file": "data_68af0f1c3318.json",
+      "elementos_count": 22044,
+      "elementos_guardados": 22044,
+      "primos_count": 22044,
+      "densidad": 8.8176,
+      "file_size_kb": 131,
+      "json_size_kb": 5134,
+      "generated": "2025-10-25T07:02:51.152959",
+      "is_mega_map": false
+    }
+  },
+  "max_configuration": {
+    "circulos": 10000,
+    "segmentos": 1300,
+    "total_numeros": 13000000
+  }
+}
